@@ -1,0 +1,18 @@
+00 ['Rachel Green']: All right, y'know what, come on, do we really have to watch this while we eat? @[BLANK]$
+01 ['Chandler Bing', 'Joey Tribbiani', 'Ross Geller']: Oh no-no-no-no! @[BLANK]$
+02 ['Chandler Bing']: We don't know what could make this go away. @[BLANK]$
+03 ['Joey Tribbiani']: Yeah, so no one touches the remote. And no one touches the TV! @[BLANK]$
+04 ['Chandler Bing']: And no one touches the air around the TV! @[BLANK]$
+05 ['Joey Tribbiani']: Imagine a protective porn bubble if you will, okay? @[BLANK]$
+06 ['Monica Geller']: Well at least, I'm going to mute it. @[BLANK]$
+07 ['Chandler Bing', 'Joey Tribbiani', 'Ross Geller']: Oh no-no-no! @[BLANK]$
+08 ['Chandler Bing']: We still have porn. @[BLANK]$
+09 ['Joey Tribbiani']: Hey. @[BLANK]$
+10 ['Phoebe Buffay']: Hi! @[BLANK]$
+11 ['Monica Geller']: Hi! @[BLANK]$
+12 ['Rachel Green']: Honey, what are you doing? That's too heavy. @[BLANK]$
+13 ['Phoebe Buffay']: Yeah. @[BLANK]$
+14 ['Rachel Green']: Give it here. Oh, God. @[BLANK]$
+15 ['Monica Geller']: Okay. @[BLANK]$
+16 ['Phoebe Buffay']: You mean like a doctor? @[BLANK]$
+17 ['Joey Tribbiani']: Pheebs! You're blocking the porn! Look out! @[BLANK]$

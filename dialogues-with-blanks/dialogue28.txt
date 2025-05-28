@@ -1,0 +1,21 @@
+00 ['Mr. Ratstatter']: This is a nice resume. Nice, nice, nice. Muy impressivo. @[BLANK]$
+01 ['Monica Geller']: So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear. @[BLANK]$
+02 ['Mr. Ratstatter']: Mockolate. @[BLANK]$
+03 ['Monica Geller']: I'm sorry? @[BLANK]$
+04 ['Mr. Ratstatter']: Mockolate. It's a completely synthetic chocolate substitute. @[BLANK]$
+05 ['Monica Geller']: Ohh. @[BLANK]$
+06 ['Mr. Ratstatter']: Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate. @[BLANK]$
+07 ['Monica Geller']: All right. Mmm-mmm. @[BLANK]$
+08 ['Mr. Ratstatter']: Yeah? @[BLANK]$
+09 ['Monica Geller']: I love how it crumbles. Now see, your chocolate doesn't do that. @[BLANK]$
+10 ['Mr. Ratstatter']: No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays: Easter, Christmas, what have you. @[BLANK]$
+11 ['Monica Geller']: Mmm-mmm. @[BLANK]$
+12 ['Mr. Ratstatter']: But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday. @[BLANK]$
+13 ['Monica Geller']: Wow. @[BLANK]$
+14 ['Mr. Ratstatter']: Aren't you going to swallow that? @[BLANK]$
+15 ['Monica Geller']: Just waiting for it to stop bubbling. @[BLANK]$
+16 ['Mr. Ratstatter']: Yeah, isn't that great? @[BLANK]$
+17 ['Monica Geller']: Mmm. @[BLANK]$
+18 ['Monica Geller']: Abso... ...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate. @[BLANK]$
+19 ['Mr. Ratstatter']: Really? @[BLANK]$
+20 ['Monica Geller']: Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas. @[BLANK]$

@@ -1,0 +1,152 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 2,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 3,
+        "gold": "Joyful",
+        "pred": "Loving",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 4,
+        "gold": "Joyful",
+        "pred": "Surprised",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 5,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 6,
+        "gold": "Neutral",
+        "pred": "Thoughtful",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 7,
+        "gold": "Joyful",
+        "pred": "Nervous",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 8,
+        "gold": "Peaceful",
+        "pred": "Annoyed",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 9,
+        "gold": "Neutral",
+        "pred": "Thoughtful",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 10,
+        "gold": "Joyful",
+        "pred": "Laughing",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 11,
+        "gold": "Joyful",
+        "pred": "Cool",
+        "score": 0.4
+    },
+    {
+        "turn": 12,
+        "gold": "Joyful",
+        "pred": "Thoughtful",
+        "score": 0.5
+    },
+    {
+        "turn": 13,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 14,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 15,
+        "gold": "Powerful",
+        "pred": "Loving",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 16,
+        "gold": "Neutral",
+        "pred": "Annoyed",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 17,
+        "gold": "Joyful",
+        "pred": "Nervous",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 18,
+        "gold": "Joyful",
+        "pred": "Surprised",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 19,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 20,
+        "gold": "Joyful",
+        "pred": "Shocked",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 21,
+        "gold": "Peaceful",
+        "pred": "Laughing",
+        "score": 0.25
+    },
+    {
+        "turn": 22,
+        "gold": "Peaceful",
+        "pred": "Annoyed",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 23,
+        "gold": "Joyful",
+        "pred": "Happy",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 24,
+        "gold": "Scared",
+        "pred": "Thoughtful",
+        "score": 0.0
+    },
+    {
+        "turn": 25,
+        "gold": "Mad",
+        "pred": "Annoyed",
+        "score": 0.2
+    }
+]

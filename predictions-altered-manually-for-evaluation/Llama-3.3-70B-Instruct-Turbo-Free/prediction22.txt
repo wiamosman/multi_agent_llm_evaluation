@@ -1,0 +1,21 @@
+00 ['Chip Matthews']: Hey Monica, it's Chip. @Neutral$
+01 ['Monica Geller']: Yesss!! @Joy$
+02 ['Ross Geller']: Who's Chip? @Neutral$
+03 ['Monica Geller']: Shhh! @Neutral$
+04 ['Chip Matthews']: Good runnin' into you at the bank today, so ah, here's my number, 555-9323. Give me a call. Later. @Neutral$
+05 ['Monica Geller']: Chip, is Chip Matthews. @Neutral$
+06 ['Ross Geller']: The guy who took Rachel to the prom? Why is he calling you? @Surprise$
+07 ['Monica Geller']: 'Cause I ran into him at the bank, he is still soo cute. @Joy$
+08 ['Ross Geller']: Monica, you're so lucky! He's like the most popular guy in school!! @Neutral$
+09 ['Monica Geller']: I know!! Chip? Hi! It's Monica. 'Kay. 'Kay. Okay. Okay, good-bye. Oh my God, we just had the best conversation!! @Joy$
+10 ['Ross Geller']: I was just leaving. @Neutral$
+11 ['Rachel Green']: Good! 'Cause I've got a product report to read, it's like eight pages, I hope I don't fall asleep. @Neutral$
+12 ['Ross Geller']: Why? Did you write it? @Neutral$
+13 ['Rachel Green']: Wow! Look at that, Chip Matthews called. I wonder what he wants? @Surprise$
+14 ['Ross Geller']: Well ah, actually... @Neutral$
+15 ['Rachel Green']: I bet he sensed that I was ready to have sex with another guy. @Neutral$
+16 ['Ross Geller']: Well, umm, why don't you give him a call? @Neutral$
+17 ['Rachel Green']: Okay. Are you sure you wanna hear this? @Neutral$
+18 ['Ross Geller']: Oh, I'm sure. @Neutral$
+19 ['Rachel Green']: Chip! Hi, it's Rachel. Rachel Green. Yeah, umm, you left me a message. Yes you did, my roommate wrote it down. Monica Geller. Ohh. @Surprise$
+20 ['Ross Geller']: Oh, that's right! He called to ask out Monica! That-that's gotta be embarrassing! @Amusement is not in the list, so @Surprise$

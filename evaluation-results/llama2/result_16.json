@@ -1,0 +1,98 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "[Neutral]",
+        "score": 0.26666666666666666
+    },
+    {
+        "turn": 2,
+        "gold": "Peaceful",
+        "pred": "[Joyful]",
+        "score": 0.375
+    },
+    {
+        "turn": 3,
+        "gold": "Peaceful",
+        "pred": "[Scared]",
+        "score": 0.125
+    },
+    {
+        "turn": 4,
+        "gold": "Peaceful",
+        "pred": "[Powerful]",
+        "score": 0.5555555555555556
+    },
+    {
+        "turn": 5,
+        "gold": "Mad",
+        "pred": "[Sad]",
+        "score": 0.5
+    },
+    {
+        "turn": 6,
+        "gold": "Joyful",
+        "pred": "[Peaceful]",
+        "score": 0.375
+    },
+    {
+        "turn": 7,
+        "gold": "Scared",
+        "pred": "[Scared]",
+        "score": 0.8571428571428571
+    },
+    {
+        "turn": 8,
+        "gold": "Joyful",
+        "pred": "[Mad]",
+        "score": 0.0
+    },
+    {
+        "turn": 9,
+        "gold": "Scared",
+        "pred": "[Neutral]",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 10,
+        "gold": "Scared",
+        "pred": "[Sad]",
+        "score": 0.5454545454545454
+    },
+    {
+        "turn": 11,
+        "gold": "Scared",
+        "pred": "[Powerful]",
+        "score": 0.125
+    },
+    {
+        "turn": 12,
+        "gold": "Scared",
+        "pred": "[Scared]",
+        "score": 0.8571428571428571
+    },
+    {
+        "turn": 13,
+        "gold": "Scared",
+        "pred": "[Neutral]",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 14,
+        "gold": "Scared",
+        "pred": "[Powerful]",
+        "score": 0.125
+    },
+    {
+        "turn": 15,
+        "gold": "Powerful",
+        "pred": "[Neutral]",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 16,
+        "gold": "Sad",
+        "pred": "[Sad]",
+        "score": 0.75
+    }
+]

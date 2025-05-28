@@ -1,0 +1,11 @@
+00 ['Joey Tribbiani']: Hey. @Neutral$
+01 ['Kate Miller']: Hi. @Peaceful$
+02 ['Joey Tribbiani']: So I ah, talked to Lauren, kinda told her how things were with us. Did you ah, did you talk to Marshall? @Powerful$
+03 ['Kate Miller']: About what? @Scared$
+04 ['Joey Tribbiani']: Y'know, about what happened with us. @Sad$
+05 ['Kate Miller']: Nooo. And there's really no reason he should find out, so ah let's not make a big deal about it, okay? @Peaceful$
+06 ['Joey Tribbiani']: What are you talking about? It was a big deal. I mean, come on you can't tell me last night didn't mean something to you. I-I was there, you're not that good an actress. @Powerful$
+07 ['Lauren']: Hi, Kate! @Joyful$
+08 ['Kate Miller']: Hi, Lauren. @Neutral$
+09 ['Joey Tribbiani']: Hi, Lauren. @Sad$
+10 ['Lauren']: Hi, pig! @Scared$

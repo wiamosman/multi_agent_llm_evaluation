@@ -1,0 +1,20 @@
+Okay! Here are my guesses for the blanks in the dialogue:
+
+00 ['Monica Geller']: Honey, you made the bed again. I told you, you don't have to do that. This isn't camp. @Neutral$
+01 ['Richard Burke']: Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown. @Joyful$
+02 ['Richard Burke']: Monica... Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town? @Surprise$
+03 ['Monica Geller']: Baddest. Otherwise the song would be Fat Fat Leroy Brown. @Joyful$
+04 ['Richard Burke']: What're you doing? @Scared$
+05 ['Monica Geller']: Just waiting for you sweetie. @Peaceful$
+06 ['Richard Burke']: Are you remaking the bed? @Mad$
+07 ['Monica Geller']: I'm sorry, I'm sorry. You know what, the way you did it was just fine. @Neutral$
+08 ['Richard Burke']: Then, you're redoing it because... @Sad$
+09 ['Monica Geller']: If I tell you, you'll think I'm crazy. @Scared$
+10 ['Richard Burke']: You're pretty much running that risk either way. @Mad$
+11 ['Monica Geller']: Ok, you see, the tag shouldn't be at the top left corner, it should be at the bottom right corner. @Surprise$
+12 ['Richard Burke']: Oh, well that's not so crazy. @Joyful$
+13 ['Monica Geller']: I'm just easing you in. @Peaceful$
+14 ['Richard Burke']: Oh, alright. @Neutral$
+15 ['Monica Geller']: Alright, you see, these little flower blossoms? They should be facing up, not down, because... @Sad$
+16 ['Richard Burke']: Oh, I see. @Scared$
+17 ['Monica Geller']: ...because the head of the bed is where the sun would be. You don't love me any more do you. @Mad$

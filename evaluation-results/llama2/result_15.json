@@ -1,0 +1,128 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 2,
+        "gold": "Joyful",
+        "pred": "Sad",
+        "score": 0.0
+    },
+    {
+        "turn": 3,
+        "gold": "Joyful",
+        "pred": "Surprise",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 4,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 5,
+        "gold": "Joyful",
+        "pred": "Peaceful",
+        "score": 0.42857142857142855
+    },
+    {
+        "turn": 6,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 7,
+        "gold": "Sad",
+        "pred": "Sad",
+        "score": 1.0
+    },
+    {
+        "turn": 8,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 9,
+        "gold": "Sad",
+        "pred": "Peaceful",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 10,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 11,
+        "gold": "Neutral",
+        "pred": "Disgust",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 12,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 13,
+        "gold": "Neutral",
+        "pred": "Peaceful",
+        "score": 0.4
+    },
+    {
+        "turn": 14,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 15,
+        "gold": "Neutral",
+        "pred": "Sad",
+        "score": 0.2
+    },
+    {
+        "turn": 16,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 17,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 18,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 19,
+        "gold": "Joyful",
+        "pred": "Surprise",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 20,
+        "gold": "Joyful",
+        "pred": "Sad",
+        "score": 0.0
+    },
+    {
+        "turn": 21,
+        "gold": "Joyful",
+        "pred": "Disgust",
+        "score": 0.15384615384615385
+    }
+]

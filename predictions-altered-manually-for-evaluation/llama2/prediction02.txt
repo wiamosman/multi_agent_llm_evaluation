@@ -1,0 +1,23 @@
+00 ['Ross Geller']: Rach! Whoops! Rach, hey, open up, please! @[Joyful]$
+01 ['Rachel Green']: When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape. @[Sad]$
+02 ['Ross Geller']: I just wanna read something. It's your pro list. @[Powerful]$
+03 ['Rachel Green']: Not interested. @[Neutral]$
+04 ['Ross Geller']: Ok, ok, number one: The way you cry at game shows. Number two: how much you love your friends. Number three: the way you play with your hair when you're nervous. Number four: how brave you are for starting your life over. Number five: how great you are with Ben. @[Powerful]$
+05 ['Ross Geller']: Number six: the way you smell. @[Disgust]$
+06 ['Joey Tribbiani']: Hey, Ross! What are you doin'? @[Surprise]$
+07 ['Ross Geller']: Hey, Joey. You wanna open the window? @[Powerful]$
+08 ['Joey Tribbiani']: Oh, yeah, I do. @[Joyful]$
+09 ['Chandler Bing']: What are you doing out there? @[Sad]$
+10 ['Ross Geller']: I am, uh, I am... @[Neutral]$
+11 ['Monica Geller']: Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate? @[Powerful]$
+12 ['Ross Geller']: Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance. @[Sad]$
+13 ['Rachel Green']: No. @[Neutral]$
+14 ['Chandler Bing']: Look, maybe we should go? @[Surprise]$
+15 ['Ross Geller']: No, you guys, you really don't have to go, we're done talking. @[Neutral]$
+16 ['Monica Geller']: Oh, well, that's, that's mighty big of you, Ross. I said don't go! @[Powerful]$
+17 ['Rachel Green']: Well, then, I guess that's the difference between us. See, I'd never make a list. @[Neutral]$
+18 ['Ross Geller']: Oh, well, that's... @[Sad]$
+19 ['Chandler Bing']: Look, maybe we should go? @[Surprise]$
+20 ['Rachel Green']: No, you guys, you really don't have to go, we're done talking. @[Neutral]$
+21 ['Ross Geller']: No, but... @[Sad]$
+22 ['Rachel Green']: Oh, well, that's... @[Neutral]$

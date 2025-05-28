@@ -1,0 +1,134 @@
+[
+    {
+        "turn": 1,
+        "gold": "Neutral",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 2,
+        "gold": "Neutral",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 3,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 4,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 5,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 6,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 7,
+        "gold": "Neutral",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 8,
+        "gold": "Neutral",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 9,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 10,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 11,
+        "gold": "Sad",
+        "pred": "Anger",
+        "score": 0.0
+    },
+    {
+        "turn": 12,
+        "gold": "Neutral",
+        "pred": "Anger",
+        "score": 0.3333333333333333
+    },
+    {
+        "turn": 13,
+        "gold": "Sad",
+        "pred": "Neutral",
+        "score": 0.2
+    },
+    {
+        "turn": 14,
+        "gold": "Neutral",
+        "pred": "Disgust",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 15,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 16,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 17,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 18,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 19,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 20,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 21,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 22,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    }
+]

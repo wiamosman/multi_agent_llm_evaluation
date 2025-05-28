@@ -1,0 +1,15 @@
+00 ['Monica Geller']: Oh my God! Ohh! Look at this one! It's so beautiful! @[BLANK]$
+01 ['Phoebe Buffay']: Yeah, but y'know, about have of these are gonna end up getting divorced. @[BLANK]$
+02 ['The Saleslady']: May I help you ladies? @[BLANK]$
+03 ['Monica Geller']: Oh, yes, umm, I'm here to pick up a dress that you have on hold. @[BLANK]$
+04 ['The Saleslady']: Yes, what's the name, please? @[BLANK]$
+05 ['Monica Geller']: Emily Waltham. @[BLANK]$
+06 ['The Saleslady']: Yes! I have it right here. Would you like to try it on Ms. Waltham? @[BLANK]$
+07 ['Monica Geller']: Okay. @[BLANK]$
+08 ['Phoebe Buffay']: You're the most beautiful bride I've ever seen. @[BLANK]$
+09 ['Monica Geller']: I am, aren't I? @[BLANK]$
+10 ['The Saleslady']: Ms. Waltham? @[BLANK]$
+11 ['Monica Geller']: Yes? @[BLANK]$
+12 ['The Saleslady']: We're closing. @[BLANK]$
+13 ['Monica Geller']: All right. @[BLANK]$
+14 ['The Saleslady']: And could I get my ring back? @[BLANK]$

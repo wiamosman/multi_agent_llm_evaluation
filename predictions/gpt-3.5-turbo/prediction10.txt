@@ -1,0 +1,21 @@
+<START>
+00 ['Rachel Green']: So uh, Ryan, were you shipping off to? @Neutral$
+01 ['Ryan']: I really can't say. @Neutral$
+02 ['Ross Geller']: So do you have like any nuclear weapons on board? @Surprise$
+03 ['Ryan']: I can't say. @Neutral$
+04 ['Rachel Green']: Well do you get to look through one of those like, those periscope thingys. @Joy$
+05 ['Ryan']: I'm sorry, but I can't say. @Neutral$
+06 ['Ross Geller']: Wow, it, it's neat learning about submarines. @Joy$
+07 ['Ryan']: I better get out of here, I'm gonna miss my flight. @Fear$
+08 ['Phoebe Buffay']: Ok, I'll walk you out. @Joy$
+09 ['Ross Geller']: Bye Ryan. @Neutral$
+10 ['Ryan']: Pleasure. @Neutral$
+11 ['Rachel Green']: It was nice to meet you. @Joy$
+12 ['Ryan']: Take care. @Neutral$
+13 ['Ross Geller']: You like that do ya? @Joy$
+14 ['Rachel Green']: Oh yeah. @Joy$
+15 ['Ross Geller']: I'll make some calls. @Neutral$
+16 ['Rachel Green']: Ok. @Neutral$
+17 ['Ryan']: Taxi. @Neutral$
+18 ['Phoebe Buffay']: Bye you. @Joy$
+<END>

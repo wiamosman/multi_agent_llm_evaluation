@@ -1,0 +1,86 @@
+[
+    {
+        "turn": 1,
+        "gold": "Mad",
+        "pred": "Sad",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 2,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 3,
+        "gold": "Joyful",
+        "pred": "Powerful",
+        "score": 0.5714285714285714
+    },
+    {
+        "turn": 4,
+        "gold": "Neutral",
+        "pred": "Curious",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 5,
+        "gold": "Neutral",
+        "pred": "Confused",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 6,
+        "gold": "Scared",
+        "pred": "Clueless",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 7,
+        "gold": "Joyful",
+        "pred": "Relieved",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 8,
+        "gold": "Joyful",
+        "pred": "Proud",
+        "score": 0.36363636363636365
+    },
+    {
+        "turn": 9,
+        "gold": "Sad",
+        "pred": "Sad",
+        "score": 1.0
+    },
+    {
+        "turn": 10,
+        "gold": "Scared",
+        "pred": "Nervous",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 11,
+        "gold": "Sad",
+        "pred": "Concerned",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 12,
+        "gold": "Sad",
+        "pred": "Scared",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 13,
+        "gold": "Mad",
+        "pred": "Angry",
+        "score": 0.0
+    },
+    {
+        "turn": 14,
+        "gold": "Mad",
+        "pred": "Surprised",
+        "score": 0.16666666666666666
+    }
+]

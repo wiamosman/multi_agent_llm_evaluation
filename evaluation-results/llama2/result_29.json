@@ -1,0 +1,122 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Happy",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 2,
+        "gold": "Sad",
+        "pred": "Neutral",
+        "score": 0.2
+    },
+    {
+        "turn": 3,
+        "gold": "Neutral",
+        "pred": "Thoughtful",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 4,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 5,
+        "gold": "Sad",
+        "pred": "Delighted",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 6,
+        "gold": "Neutral",
+        "pred": "Playful",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 7,
+        "gold": "Peaceful",
+        "pred": "Cool",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 8,
+        "gold": "Joyful",
+        "pred": "Loving",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 9,
+        "gold": "Joyful",
+        "pred": "Confused",
+        "score": 0.42857142857142855
+    },
+    {
+        "turn": 10,
+        "gold": "Joyful",
+        "pred": "Studious",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 11,
+        "gold": "Joyful",
+        "pred": "Dismissive",
+        "score": 0.0
+    },
+    {
+        "turn": 12,
+        "gold": "Joyful",
+        "pred": "Happy",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 13,
+        "gold": "Neutral",
+        "pred": "Thoughtful",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 14,
+        "gold": "Sad",
+        "pred": "Angry",
+        "score": 0.0
+    },
+    {
+        "turn": 15,
+        "gold": "Sad",
+        "pred": "Angry",
+        "score": 0.0
+    },
+    {
+        "turn": 16,
+        "gold": "Scared",
+        "pred": "Fun",
+        "score": 0.0
+    },
+    {
+        "turn": 17,
+        "gold": "Neutral",
+        "pred": "Happy",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 18,
+        "gold": "Joyful",
+        "pred": "Goodbye",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 19,
+        "gold": "Peaceful",
+        "pred": "Winking",
+        "score": 0.0
+    },
+    {
+        "turn": 20,
+        "gold": "Neutral",
+        "pred": "Drama",
+        "score": 0.3333333333333333
+    }
+]

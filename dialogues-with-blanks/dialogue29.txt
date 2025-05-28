@@ -1,0 +1,20 @@
+00 ['Joey Tribbiani']: Hey, Kate! @[BLANK]$
+01 ['Kate Miller']: Morning. @[BLANK]$
+02 ['Joey Tribbiani']: Listen, I ah, went to that restaurant that you were talking about last week... @[BLANK]$
+03 ['The Director']: Hey, lovely! Come, talk to me a minute! @[BLANK]$
+04 ['Joey Tribbiani']: And I ate the food, I had the fish, it was good, yeah. It was good, yeah... @[BLANK]$
+05 ['Woman']: Hi, oh, I'm Lauren, Kate's understudy. @[BLANK]$
+06 ['Joey Tribbiani']: Oh, hey! Joey Tribbiani. @[BLANK]$
+07 ['Lauren']: I know! I-I'm a big fan of yours. @[BLANK]$
+08 ['Joey Tribbiani']: What?! @[BLANK]$
+09 ['Lauren']: I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives. @[BLANK]$
+10 ['Joey Tribbiani']: Get out of here, really?! @[BLANK]$
+11 ['Lauren']: Absolutely! @[BLANK]$
+12 ['Joey Tribbiani']: Yeah? @[BLANK]$
+13 ['Lauren']: Oh but then, they went and dropped you down that elevator shaft. @[BLANK]$
+14 ['Joey Tribbiani']: They gave me the shaft all right. @[BLANK]$
+15 ['Lauren']: Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something? @[BLANK]$
+16 ['Joey Tribbiani']: Well Ahh, yeah! Yeah, sure, a drink sounds great. @[BLANK]$
+17 ['Lauren']: Cool! I-I'll see you then. @[BLANK]$
+18 ['Joey Tribbiani']: All right. @[BLANK]$
+19 ['The Director']: All right, it's time to act, my talking props. @[BLANK]$

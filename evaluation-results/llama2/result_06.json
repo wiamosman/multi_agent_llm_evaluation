@@ -1,0 +1,110 @@
+[
+    {
+        "turn": 1,
+        "gold": "Sad",
+        "pred": "Neutral",
+        "score": 0.2
+    },
+    {
+        "turn": 2,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 3,
+        "gold": "Neutral",
+        "pred": "Powerful",
+        "score": 0.4
+    },
+    {
+        "turn": 4,
+        "gold": "Neutral",
+        "pred": "Peaceful",
+        "score": 0.4
+    },
+    {
+        "turn": 5,
+        "gold": "Powerful",
+        "pred": "Joyful",
+        "score": 0.5714285714285714
+    },
+    {
+        "turn": 6,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 7,
+        "gold": "Neutral",
+        "pred": "Peaceful",
+        "score": 0.4
+    },
+    {
+        "turn": 8,
+        "gold": "Joyful",
+        "pred": "Scared",
+        "score": 0.0
+    },
+    {
+        "turn": 9,
+        "gold": "Powerful",
+        "pred": "Sad",
+        "score": 0.0
+    },
+    {
+        "turn": 10,
+        "gold": "Neutral",
+        "pred": "Powerful",
+        "score": 0.4
+    },
+    {
+        "turn": 11,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 12,
+        "gold": "Sad",
+        "pred": "Scared",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 13,
+        "gold": "Neutral",
+        "pred": "Peaceful",
+        "score": 0.4
+    },
+    {
+        "turn": 14,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 15,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 16,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 17,
+        "gold": "Peaceful",
+        "pred": "Peaceful",
+        "score": 1.0
+    },
+    {
+        "turn": 18,
+        "gold": "Powerful",
+        "pred": "Sad",
+        "score": 0.0
+    }
+]

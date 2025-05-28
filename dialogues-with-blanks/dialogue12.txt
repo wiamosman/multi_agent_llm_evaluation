@@ -1,0 +1,21 @@
+00 ['Chandler Bing']: It's not a big deal. It's, just it's right here, and it's all the time. @[BLANK]$
+01 ['Joanna']: Well, thanks again for lunch. @[BLANK]$
+02 ['Chandler Bing']: Yes, this, this was pleasant. @[BLANK]$
+03 ['Joanna']: It was, wasn't it? @[BLANK]$
+04 ['Chandler Bing']: The food there was, was great. @[BLANK]$
+05 ['Joanna']: Wasn't it? @[BLANK]$
+06 ['Chandler Bing']: So take care. @[BLANK]$
+07 ['Joanna']: You too. @[BLANK]$
+08 ['Chandler Bing']: Well, this was great. I'll give you a call. We should do it again sometime. @[BLANK]$
+09 ['Joanna']: Great! I'm looking forward to it. Rachel, any messages? @[BLANK]$
+10 ['Rachel Green']: Sophie's desk. @[BLANK]$
+11 ['Rachel Green']: Chandler!! Are you gonna call her! @[BLANK]$
+12 ['Chandler Bing']: Noo! @[BLANK]$
+13 ['Rachel Green']: Chandler!! @[BLANK]$
+14 ['Chandler Bing']: Look, I'm sorry. Okay? I'm weak, and pathetic, and sorry. @[BLANK]$
+15 ['Chandler Bing']: Ahhhh-I'm not going to call you. @[BLANK]$
+16 ['Joanna']: What? @[BLANK]$
+17 ['Joanna']: Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty. @[BLANK]$
+18 ['Chandler Bing']: Yeah, o-okay. @[BLANK]$
+19 ['Joanna']: So... @[BLANK]$
+20 ['Chandler Bing']: Well this is great! I'll give you a call! We should do it again sometime! @[BLANK]$

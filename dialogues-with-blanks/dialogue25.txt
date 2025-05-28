@@ -1,0 +1,13 @@
+00 ['Ross Geller']: Hi. @[BLANK]$
+01 ['Monica Geller']: Hi. @[BLANK]$
+02 ['Ross Geller']: So uh, Emily just went to the airport. @[BLANK]$
+03 ['Monica Geller']: Oh. Why didn't you take her? @[BLANK]$
+04 ['Monica Geller']: You must feel horrible. Hey! The guys have free porn! @[BLANK]$
+05 ['Ross Geller']: Nah. @[BLANK]$
+06 ['Ross Geller']: And why do you care so much? @[BLANK]$
+07 ['Ross Geller']: You had fantasies about Emily? @[BLANK]$
+08 ['Ross Geller']: Ahh. @[BLANK]$
+09 ['Monica Geller']: Do you love her? @[BLANK]$
+10 ['Monica Geller']: You love her! @[BLANK]$
+11 ['Ross Geller']: What-what is love really? @[BLANK]$
+12 ['Ross Geller']: I am a good kisser. @[BLANK]$

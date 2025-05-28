@@ -1,0 +1,22 @@
+Here is the filled-in dialogue with your best guesses for the emotions:
+
+00 ['Joey Tribbiani']: Hey, Kate! 😊
+01 ['Kate Miller']: Morning. 😐
+02 ['Joey Tribbiani']: Listen, I ah, went to that restaurant that you were talking about last week... 🤔
+03 ['The Director']: Hey, lovely! Come, talk to me a minute! 😃
+04 ['Joey Tribbiani']: And I ate the food, I had the fish, it was good, yeah. It was good, yeah... 😋
+05 ['Woman']: Hi, oh, I'm Lauren, Kate's understudy. 🙃
+06 ['Joey Tribbiani']: Oh, hey! Joey Tribbiani. 😎
+07 ['Lauren']: I know! I-I'm a big fan of yours. 😍
+08 ['Joey Tribbiani']: What?! 😕
+09 ['Lauren']: I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives. 📚
+10 ['Joey Tribbiani']: Get out of here, really?! 🙅‍♂️
+11 ['Lauren']: Absolutely! 😆
+12 ['Joey Tribbiani']: Yeah? 🤔
+13 ['Lauren']: Oh but then, they went and dropped you down that elevator shaft. 😠
+14 ['Joey Tribbiani']: They gave me the shaft all right. 😡
+15 ['Lauren']: Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something? 🍹
+16 ['Joey Tribbiani']: Well Ahh, yeah! Yeah, sure, a drink sounds great. 😊
+17 ['Lauren']: Cool! I-I'll see you then. 👋
+18 ['Joey Tribbiani']: All right. 😉
+19 ['The Director']: All right, it's time to act, my talking props. 🎭

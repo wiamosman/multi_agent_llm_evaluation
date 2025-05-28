@@ -1,0 +1,11 @@
+00 ['Joey Tribbiani']: But don't you need experience for a job like that? @Scared$
+01 ['Chandler Bing']: It's not that hard to learn. And as for people realizing you have no idea what you're doing, hey, you're an actor. Act like a processor, people will think you're a processor. @Peaceful$
+02 ['Scott Alexander']: Hey Chandler, here's this morning's projections. @Joyful$
+03 ['Chandler Bing']: Hey thanks. Scott Alexander, Joey Tribbianni. Joey is a uh, fellow processor. @Mad$
+04 ['Scott Alexander']: No kidding. @Peaceful$
+05 ['Joey Tribbiani']: Oh yeah yeah. I process. People want the processing, I'm the one they call. @Powerful$
+06 ['Scott Alexander']: Where do you work? @Neutral$
+07 ['Joey Tribbiani']: Uhh, well, right now I'm in between things. You know how it is. One day you're processing, the next day you're not so much... processing any more. @Neutral$
+08 ['Chandler Bing']: I was just telling Joey about the opening in Fleischman's group. @Neutral$
+09 ['Scott Alexander']: Fleischman's group. Whatever you do, don't touch his sandwiches. Ha-ha-ha... @Joyful$
+10 ['Joey Tribbiani']: Ha-ha. Are all you processors dorks? @Joyful$

@@ -1,0 +1,20 @@
+Okay! Based on the dialogue provided, I will fill in the blanks with the appropriate emotion tags:
+
+00 ['Monica Geller']: Hey! 🙂
+01 ['Rachel Green']: Umm, when were you gonna tell me that you're going out with Chip Matthews? 😕
+02 ['Monica Geller']: Now? Is it okay if I go out with Chip Matthews? 🤔
+03 ['Rachel Green']: Nooo! It's not okay! I can't believe you would want to after what he did to me! 😡
+04 ['Monica Geller']: What, that little thing at the prom? 🙄
+05 ['Rachel Green']: Monica! I couldn't find him for two hours! He was having sex with Amy Welch! 😨
+06 ['Monica Geller']: Come on, that was back in high school! How could that still bother you? 🙄
+07 ['Rachel Green']: I mean why, of all people would you want to go out with Chip?! 🤷‍♀️
+08 ['Monica Geller']: Look, you and I went to different high schools... 📚
+09 ['Rachel Green']: Okay, that doesn't help me, because we went to the same high school. 🙄
+10 ['Monica Geller']: You went to one where you were popular, and you got to ride off Chip's motorcycle, and wear his letterman jacket. I went to one where I wore a band uniform they had to have specially made. 😔
+11 ['Rachel Green']: They had to have that specially made?! 😂
+12 ['Monica Geller']: It was a project for one of the Home Ec classes. 🧵
+13 ['Rachel Green']: Oh my God, they told us that was for the mascot! 🤣
+14 ['Rachel Green']: Oh, you go out with him. 🙄
+15 ['Monica Geller']: Oh, really?! 😒
+16 ['Rachel Green']: Yeah. Just, if it's possible, could you leave him somewhere and go have sex with another guy? 😏
+17 ['Monica Geller']: I'll try. 🙅‍♀️

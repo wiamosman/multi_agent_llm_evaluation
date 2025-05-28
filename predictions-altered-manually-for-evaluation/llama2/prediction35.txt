@@ -1,0 +1,25 @@
+00 ['Phoebe Buffay']: Hey!  @Joyful$
+01 ['#ALL#']: Hey!  @Joyful$
+02 ['Phoebe Buffay']: Look everybody, look at my new dollhouse!!  @Loving$
+03 ['Rachel Green']: Wow!!  @Surprised$
+04 ['Phoebe Buffay']: Look, look!  @Joyful$
+05 ['Ross Geller']: Hey, what's this?!  @Thoughtful$
+06 ['Phoebe Buffay']: Oh, okay, it's the slide instead of stairs. Watch this.  @Nervous$
+07 ['Monica Geller']: It's very interesting, Phoebe.  @Annoyed$
+08 ['Rachel Green']: What's this?  @Thoughtful$
+09 ['Phoebe Buffay']: The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed.  @Laughing$
+10 ['Ross Geller']: This is the coolest house ever!!  @Cool$
+11 ['Phoebe Buffay']: Hey, does anybody want to join me in the aroma room?  @Thoughtful$
+12 ['Rachel Green']: All right!  @Joyful$
+13 ['Ross Geller']: I would!  @Joyful$
+14 ['Monica Geller']: Hey, guys, guys, did you see my new, china cabinet?!  @Loving$
+15 ['Rachel Green', 'Ross Geller']: Uh-huh.  @Annoyed$
+16 ['Phoebe Buffay']: Watch, watch.  @Nervous$
+17 ['Rachel Green', 'Ross Geller']: Ooohhhh!!  @Surprised$
+18 ['Phoebe Buffay']: And, and!  @Joyful$
+19 ['Rachel Green', 'Ross Geller']: Ahhhh!!  @Shocked$
+20 ['Chandler Bing']: Hey, my Father's house does that!  @Laughing$
+21 ['Rachel Green']: O-o-o-okay, how did it go? Tell me everything.  @Annoyed$
+22 ['Chandler Bing']: Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.  @Happy$
+23 ['Rachel Green']: Hmm.  @Thoughtful$
+24 ['Chandler Bing']: Of course, I didn't get to enjoy any of that, because Joanna's such a big, dull dud!  @Annoyed$

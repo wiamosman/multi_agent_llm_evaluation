@@ -1,0 +1,18 @@
+00 ['Phoebe Buffay']: Can I please take these off? I swear I won't scratch. @[BLANK]$
+01 ['Rachel Green']: No sorry hon, Monica's orders. @[BLANK]$
+02 ['Ryan']: Well that wasn't easy. @[BLANK]$
+03 ['Ross Geller']: Ok, dinner's on. @[BLANK]$
+04 ['Rachel Green']: And there's a peach cobbler warming in the oven so the plate's gonna be hot but that shouldn't be a problem for you. @[BLANK]$
+05 ['Ross Geller']: Alright you kids, bye now. @[BLANK]$
+06 ['Phoebe Buffay', 'Ryan']: Bye. @[BLANK]$
+07 ['Ross Geller']: Oh look, a low budget puppet show. @[BLANK]$
+08 ['Phoebe Buffay']: It's such a shame you can't see which finger I'm holding up. @[BLANK]$
+09 ['Ryan']: Wine? @[BLANK]$
+10 ['Phoebe Buffay']: Please. @[BLANK]$
+11 ['Ryan']: Oh, I spilled some. @[BLANK]$
+12 ['Phoebe Buffay']: I got it. @[BLANK]$
+13 ['Ryan']: I must tell you, you look beautiful tonight. @[BLANK]$
+14 ['Phoebe Buffay']: What? @[BLANK]$
+15 ['Ryan']: Sorry. You look beautiful. @[BLANK]$
+16 ['Phoebe Buffay']: Oh. @[BLANK]$
+17 ['Phoebe Buffay']: You know what, that's it, that's it. @[BLANK]$

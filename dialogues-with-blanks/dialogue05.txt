@@ -1,0 +1,22 @@
+00 ['Monica Geller']: Okay, ready? @[BLANK]$
+01 ['Phoebe Buffay']: Yeah. @[BLANK]$
+02 ['Monica Geller']: Okay. @[BLANK]$
+03 ['Phoebe Buffay']: I got it! Mine! @[BLANK]$
+04 ['Monica Geller']: Congratulations! @[BLANK]$
+05 ['Phoebe Buffay']: Thank you! @[BLANK]$
+06 ['Monica Geller']: Okay! My turn! My turn! @[BLANK]$
+07 ['Phoebe Buffay']: Okay! Okay, ready? @[BLANK]$
+08 ['Monica Geller']: Yeah. @[BLANK]$
+09 ['Phoebe Buffay']: Okay. @[BLANK]$
+10 ['Monica Geller']: That was a terrible throw!! @[BLANK]$
+11 ['Phoebe Buffay']: I'm not gonna right to you! That's not real! @[BLANK]$
+12 ['Phoebe Buffay']: Yeah, I think we are. @[BLANK]$
+13 ['Monica Geller']: This isn't even my dress. @[BLANK]$
+14 ['Monica Geller']: I'm changing out of this. @[BLANK]$
+15 ['Phoebe Buffay']: Me too. @[BLANK]$
+16 ['Monica Geller']: In like a half-hour? @[BLANK]$
+17 ['Phoebe Buffay']: Me too. @[BLANK]$
+18 ['Monica Geller']: Okay, throw it straight this time. @[BLANK]$
+19 ['Phoebe Buffay']: Okay. @[BLANK]$
+20 ['Monica Geller']: I'm getting married next!! @[BLANK]$
+21 ['Phoebe Buffay']: Yay! @[BLANK]$

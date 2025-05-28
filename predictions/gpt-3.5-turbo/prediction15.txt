@@ -1,0 +1,23 @@
+<START>
+00 ['Chandler Bing']: Wait a minute, wait. You're telling me this actress person is the only woman you ever wanted who didn't want you back?! @Surprise$
+01 ['Joey Tribbiani']: Yeah! Oh my God! Is this what it's like to be you? @Joy$
+02 ['Monica Geller']: Wow, you're really crazy about her, huh? @Joy$
+03 ['Phoebe Buffay']: Oh, it's so great to see you feeling like this! @Joy$
+04 ['Ross Geller']: Hey! @Neutral$
+05 ['#ALL#']: Hey! @Neutral$
+06 ['Ross Geller']: Monica, uh Dad called this morning and ah, Aunt Silvia passed away. @Sadness$
+07 ['Monica Geller']: Yes!! Yes! Yeah, yeah, yeah! @Joy$
+08 ['Ross Geller']: We were all pretty shaken up about it. @Sadness$
+09 ['Phoebe Buffay']: Wait, am I missing something though? 'Cause I thought death was something that's supposed to be sad, in a way. @Confusion$
+10 ['Ross Geller']: Well ah, Aunt Silvia was, well not a nice person. @Neutral$
+11 ['Monica Geller']: Oh, she was a cruel, cranky, old bitch! And I'm sorry she died. Did Dad say I get the dollhouse? @Anger$
+12 ['Ross Geller']: You get the dollhouse. @Neutral$
+13 ['Monica Geller']: I get the dollhouse! @Joy$
+14 ['Phoebe Buffay']: Wow, a house for dolls, that is so cool! When I was kid, I had a barrel. @Surprise$
+15 ['Joey Tribbiani']: Uh, Pheebs, you had a barrel for a dollhouse? @Disgust$
+16 ['Phoebe Buffay']: No, just a barrel. @Neutral$
+17 ['Monica Geller']: Y'know what, you can play with my dollhouse. @Joy$
+18 ['Phoebe Buffay']: Really?! Really?! @Surprise$
+19 ['Monica Geller']: Any time you want. Y'know, when I was younger, all I wanted to do was to play with this dollhouse, but no!! It was to be looked at, but never played with. @Sadness$
+20 ['Chandler Bing']: My Grandmother used to say that exact same thing to me. @Nostalgia$
+<END>

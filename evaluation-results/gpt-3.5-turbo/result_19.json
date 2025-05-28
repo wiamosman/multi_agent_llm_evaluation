@@ -1,0 +1,134 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 2,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 3,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 4,
+        "gold": "Neutral",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 5,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 6,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 7,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 8,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 9,
+        "gold": "Powerful",
+        "pred": "Anger",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 10,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 11,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 12,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 13,
+        "gold": "Joyful",
+        "pred": "Joy",
+        "score": 0.6666666666666666
+    },
+    {
+        "turn": 14,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 15,
+        "gold": "Neutral",
+        "pred": "Curiosity",
+        "score": 0.25
+    },
+    {
+        "turn": 16,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 17,
+        "gold": "Scared",
+        "pred": "Concern",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 18,
+        "gold": "Neutral",
+        "pred": "Anger",
+        "score": 0.3333333333333333
+    },
+    {
+        "turn": 19,
+        "gold": "Neutral",
+        "pred": "Disgust",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 20,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 21,
+        "gold": "Mad",
+        "pred": "Neutral",
+        "score": 0.2
+    },
+    {
+        "turn": 22,
+        "gold": "Powerful",
+        "pred": "Neutral",
+        "score": 0.4
+    }
+]

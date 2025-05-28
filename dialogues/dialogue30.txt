@@ -1,0 +1,10 @@
+00 ['Rachel Green']: Is that the heartbeat? @Joyful$
+01 ['The Doctor']: That's it. @Joyful$
+02 ['Phoebe Buffay']: Oh my God! @Joyful$
+03 ['Rachel Green']: Oh wow! This is so cool. @Joyful$
+04 ['The Doctor']: No, I'm getting three separate heartbeats. @Powerful$
+05 ['The Doctor']: Doctors are wrong all the time. @Mad$
+06 ['Phoebe Buffay']: Well, yeah. @Joyful$
+07 ['Rachel Green']: Well, so, are-are you sure that there are three?! @Powerful$
+08 ['The Doctor']: Definitely. @Peaceful$
+09 ['Phoebe Buffay']: What do you know?! @Neutral$

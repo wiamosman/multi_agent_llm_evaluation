@@ -1,0 +1,11 @@
+00 ['Monica Geller']: How about Mockolate mousse? @[BLANK]$
+01 ['Phoebe Buffay']: It's not, it's not very Thanksgiving-y. @[BLANK]$
+02 ['Monica Geller']: Ok, how about pilgrim Mockolate mousse? @[BLANK]$
+03 ['Phoebe Buffay']: What makes it pilgrim? @[BLANK]$
+04 ['Monica Geller']: We'll put buckles on it. @[BLANK]$
+05 ['Rachel Green']: Hey. @[BLANK]$
+06 ['Phoebe Buffay']: Hey. @[BLANK]$
+07 ['Monica Geller']: Hey. @[BLANK]$
+08 ['Rachel Green']: Did uh, Ross call? @[BLANK]$
+09 ['Monica Geller']: No, I'm sorry. @[BLANK]$
+10 ['Phoebe Buffay']: No offense, but that sounds nothing like her. @[BLANK]$

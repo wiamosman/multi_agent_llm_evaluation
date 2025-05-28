@@ -1,0 +1,11 @@
+00 ['Rachel Green']: Ross kissed me. @[BLANK]$
+01 ['Monica Geller']: Oh my god, oh my god, oh my god! @[BLANK]$
+02 ['Rachel Green']: It was unbelievable! @[BLANK]$
+03 ['Monica Geller']: Oh my god, oh my god, oh my god! @[BLANK]$
+04 ['Rachel Green']: Oh, it ended very well. @[BLANK]$
+05 ['Phoebe Buffay']: Oh. @[BLANK]$
+06 ['Monica Geller']: Do not start without me. Do not start without me. @[BLANK]$
+07 ['Rachel Green']: Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it. @[BLANK]$
+08 ['Phoebe Buffay']: Ok, so, ok, was he holding you? Or was his hand like on your back? @[BLANK]$
+09 ['Rachel Green']: No, actually first they started on my waist. And then, they slid up, and then, they were in my hair. @[BLANK]$
+10 ['Monica Geller', 'Phoebe Buffay']: Ohhhh. @[BLANK]$

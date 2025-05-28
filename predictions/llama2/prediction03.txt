@@ -1,0 +1,13 @@
+I will fill in the blanks with the appropriate emotion tags based on the context of the dialogue:
+
+00 ['Rachel Green']: Call her! Call her now! @[SAD]$
+01 ['Chandler Bing']: Multiple, so many paper cuts. @[NEUTRAL]$
+02 ['Rachel Green']: Why hasn't he called Rachel? Why? Why? I don't understand. Why? He said he'll call. Why? Chandler I'm telling you she has flipped out, she's gone crazy! @[SAD]$
+03 ['Chandler Bing']: Oh, well give me the phone then. @[POWERFUL]$
+04 ['Rachel Green']: Come on, this isn't funny. She thinks it's my fault that you haven't called her. You have to call her! @[SAD]$
+05 ['Chandler Bing']: Look, you can't call somebody after this long just to say, 'In case you didn't notice, I don't like you!' @[POWERFUL]$
+06 ['Rachel Green']: Well then you're going to have to take her out again. @[NEUTRAL]$
+07 ['Chandler Bing']: Nooo!! She's really dull! And she gets this gross mascara goop thing in the corner of her eye! @[SAD]$
+08 ['Rachel Green']: That's fine! @[NEUTRAL]$
+09 ['Chandler Bing']: That's just a lot of big talk, y'know. @[POWERFUL]$
+10 ['Rachel Green']: I know. @[SAD]$

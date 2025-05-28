@@ -1,0 +1,18 @@
+00 ['Joey Tribbiani']: Hey. Mr. Douglas is looking for you. @[BLANK]$
+01 ['Chandler Bing']: Why? Wh- wh- why is Mr. Douglas looking for me? @[BLANK]$
+02 ['Joey Tribbiani']: 'Cause he has a strong suspicion that you dropped the ball on the Lender project. @[BLANK]$
+03 ['Chandler Bing']: Wha- wh- why, why, why does he suspect that? @[BLANK]$
+04 ['Joey Tribbiani']: Becasue at first he thought it was Joseph. But after he asked Joseph about it, turns out it was you. Anyway, I just thought you should know. @[BLANK]$
+05 ['Joey Tribbiani']: What're you talking about, everybody loves Joseph. @[BLANK]$
+06 ['Chandler Bing']: I don't, I hate Joseph, ok. I think he's a brown-nosing suck up. @[BLANK]$
+07 ['Joey Tribbiani']: Oh yeah. Well you can't fire Joseph. You know why, 'cause he's not in your department. @[BLANK]$
+08 ['Chandler Bing']: Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife. @[BLANK]$
+09 ['Joey Tribbiani']: Karen. @[BLANK]$
+10 ['Chandler Bing']: Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did. @[BLANK]$
+11 ['Joey Tribbiani']: Ahh. What the hell are you doing to me man. @[BLANK]$
+12 ['Chandler Bing']: Oh well it's not me, it's my character, Chandy. Yeah the rogue processor who seduces his co-worker's wives for sport and then laughs about it the next day at the water cooler. In fact, I have her panties right there in my drawer. @[BLANK]$
+13 ['Joey Tribbiani']: Really? @[BLANK]$
+14 ['Chandler Bing']: No freakshow, she's fictional. @[BLANK]$
+15 ['Joey Tribbiani']: Take it easy. If it means that much to you, I'll uh, I'll go find something else. @[BLANK]$
+16 ['Chandler Bing']: Thank you. @[BLANK]$
+17 ['Joey Tribbiani']: It's just that, I, I'm gonna miss Joseph. I liked him. His wife, she was hot. @[BLANK]$

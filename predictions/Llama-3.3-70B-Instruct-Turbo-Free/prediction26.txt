@@ -1,0 +1,16 @@
+<START>
+00 ['Ross Geller']: I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs. @Fear$
+01 ['Joey Tribbiani']: I'm thinking we've got a bookcase here. @Neutral$
+02 ['Chandler Bing']: It's a beautiful thing. @Joy$
+03 ['Joey Tribbiani']: What's this? @Surprise$
+04 ['Joey Tribbiani']: Which goes where? @Neutral$
+05 ['Chandler Bing']: I have no idea. @Neutral$
+06 ['Joey Tribbiani']: Done with the bookcase! @Joy$
+07 ['Chandler Bing']: All finished! @Joy$
+08 ['Ross Geller']: This was Carol's favorite beer. She always drank it out of the can, I should have known. @Sadness$
+09 ['Chandler Bing']: Yes, please don't spoil all this fun. @Neutral$
+10 ['Ross Geller']: You guys. @Anger$
+11 ['Chandler Bing']: Oh, God. @Surprise$
+12 ['Joey Tribbiani']: You got screwed. @Neutral$
+13 ['Chandler Bing']: Oh my God! @Surprise$
+<END>

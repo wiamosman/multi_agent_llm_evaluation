@@ -1,0 +1,12 @@
+00 ['Ross Geller']: Thanks, Gunther. Hey! Umm, can I get a napkin too? @[BLANK]$
+01 ['Gunther']: Oh, like you don't already have everything. @[BLANK]$
+02 ['Phoebe Buffay']: Ow! Ow! @[BLANK]$
+03 ['Rachel Green']: Phoebe, your in pain, would you just go to the dentist, just go. @[BLANK]$
+04 ['Rachel Green']: I promise. @[BLANK]$
+05 ['Phoebe Buffay']: Although, don't feel like you can't visit. @[BLANK]$
+06 ['Joey Tribbiani']: Hey, is, is, is Chandler here? @[BLANK]$
+07 ['Ross Geller']: No, no he's not. @[BLANK]$
+08 ['Monica Geller']: You guys, Joey just saw Janice kissing her ex-husband. @[BLANK]$
+09 ['Joey Tribbiani']: Well, I was thinking about that and I, I think the best way would be, to not. @[BLANK]$
+10 ['Joey Tribbiani']: It'll kill him. I mean it'll, it'll just kill him. @[BLANK]$
+11 ['Phoebe Buffay']: Well, you could wait 'til I go to the dentist, maybe I'll kill him. @[BLANK]$

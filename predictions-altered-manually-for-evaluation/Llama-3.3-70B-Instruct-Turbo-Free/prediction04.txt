@@ -1,0 +1,11 @@
+00 ['Ross Geller']: Well... @Neutral$
+01 ['Chandler Bing']: You put your fist through the wall? @Surprise$
+02 ['Monica Geller']: You have to go to London! @Joy$
+03 ['Ross Geller']: What? @Surprise$
+04 ['Monica Geller']: Yeah, you have to go fight for her! @Joy$
+05 ['Ross Geller']: I made fun of his accent. @Sadness$
+06 ['Ross Geller']: No. @Anger$
+07 ['Ross Geller']: Really? @Surprise$
+08 ['Ross Geller']: All right. All right, I'm gonna do it! @Joy$
+09 ['Monica Geller']: All right. @Neutral$
+10 ['Monica Geller']: Okay, good luck! @Joy$

@@ -1,0 +1,22 @@
+00 ['Rachel Green']: Hey, Sophie! @[BLANK]$
+01 ['Sophie']: Hey, Rach! @[BLANK]$
+02 ['Chandler Bing']: Hey. @[BLANK]$
+03 ['Sophie']: Hey. @[BLANK]$
+04 ['Chandler Bing']: Oh, that's-that's okay, no problem. @[BLANK]$
+05 ['Chandler Bing']: Yes, I realise that. @[BLANK]$
+06 ['Rachel Green']: Summer catalogue! @[BLANK]$
+07 ['Chandler Bing']: That's the stuff! @[BLANK]$
+08 ['Joanna']: Rachel, I need the Versachi invoice. Hello! You don't work for me. @[BLANK]$
+09 ['Rachel Green']: Joanna, this is my friend Chandler Bing Joanna. @[BLANK]$
+10 ['Joanna']: Bing! That's a great name. @[BLANK]$
+11 ['Chandler Bing']: Thanks, it's ah, Gaelic, for 'Thy turkey's done.' So ah, I'm gonna go, nice, nice meeting you. @[BLANK]$
+12 ['Joanna']: Me too. @[BLANK]$
+13 ['Rachel Green']: Bye, Chandler. @[BLANK]$
+14 ['Joanna']: So ah, what's wrong with him? @[BLANK]$
+15 ['Rachel Green']: Oh, nothing, he's just goofy like that, I actually, hardly notice it anymore. @[BLANK]$
+16 ['Joanna']: Oh no, no-no-no, is he ah, married, or involved with anyone? @[BLANK]$
+17 ['Rachel Green']: No!! No! He's not married, or involved, with anyone! @[BLANK]$
+18 ['Joanna']: Oh, Rachel, actually, y'know what, forget it. @[BLANK]$
+19 ['Rachel Green']: Well, I'll ask him for you, if you want me too? @[BLANK]$
+20 ['Sophie']: Uh, uh, uh, I am here. @[BLANK]$
+21 ['Joanna']: I know that. @[BLANK]$

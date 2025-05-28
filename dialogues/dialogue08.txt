@@ -1,0 +1,13 @@
+00 ['Richard Burke']: Monica, wake up. Monica. @Neutral$
+01 ['Monica Geller']: What's up? @Neutral$
+02 ['Richard Burke']: I thought of a thing. @Neutral$
+03 ['Monica Geller']: Yeah? @Neutral$
+04 ['Richard Burke']: Yeah. I have to sleep, have to, on this side of the bed. @Neutral$
+05 ['Monica Geller']: No honey. You have to sleep on this side of the bed because I have to sleep on this side of the bed. @Mad$
+06 ['Richard Burke']: Or so I would have you believe. @Neutral$
+07 ['Monica Geller']: No. Big deal, so you have a side of the bed, everybody has a side of the bed. @Peaceful$
+08 ['Richard Burke']: Hey come on, you haven't heard my reason yet. @Mad$
+09 ['Monica Geller']: Alright, go on. @Neutral$
+10 ['Richard Burke']: Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side. @Neutral$
+11 ['Monica Geller']: Oh my God, you're a freak. @Joyful$
+12 ['Richard Burke']: Yeah. How 'bout that. @Neutral$

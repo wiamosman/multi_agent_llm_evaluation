@@ -1,0 +1,104 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Surprise",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 2,
+        "gold": "Powerful",
+        "pred": "Curiosity",
+        "score": 0.11764705882352941
+    },
+    {
+        "turn": 3,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 4,
+        "gold": "Peaceful",
+        "pred": "Anger",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 5,
+        "gold": "Sad",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 6,
+        "gold": "Mad",
+        "pred": "Surprise",
+        "score": 0.0
+    },
+    {
+        "turn": 7,
+        "gold": "Scared",
+        "pred": "Surprise",
+        "score": 0.42857142857142855
+    },
+    {
+        "turn": 8,
+        "gold": "Powerful",
+        "pred": "Fear",
+        "score": 0.3333333333333333
+    },
+    {
+        "turn": 9,
+        "gold": "Neutral",
+        "pred": "Fear",
+        "score": 0.36363636363636365
+    },
+    {
+        "turn": 10,
+        "gold": "Sad",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 11,
+        "gold": "Peaceful",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 12,
+        "gold": "Joyful",
+        "pred": "Surprise",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 13,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 14,
+        "gold": "Neutral",
+        "pred": "Joy",
+        "score": 0.0
+    },
+    {
+        "turn": 15,
+        "gold": "Powerful",
+        "pred": "Joy",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 16,
+        "gold": "Peaceful",
+        "pred": "Sadness",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 17,
+        "gold": "Neutral",
+        "pred": "Confusion",
+        "score": 0.125
+    }
+]

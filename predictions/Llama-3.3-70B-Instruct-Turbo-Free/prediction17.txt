@@ -1,0 +1,19 @@
+<START>
+00 ['Mr. Treeger']: Ohhh, man!! @Surprise$
+01 ['Joey Tribbiani']: What is that? @Neutral$
+02 ['Chandler Bing']: Treeger's snaking the shower drain. @Neutral$
+03 ['Mr. Treeger']: What in the name of hell? @Anger$
+04 ['Joey Tribbiani']: Maybe he found you flip-flop. @Neutral$
+05 ['Chandler Bing']: Hey! @Anger$
+06 ['Joey Tribbiani']: Whoa! Is this porn? What did I do? I must've hit something on the remote. @Surprise$
+07 ['Chandler Bing']: Do we pay for this? @Neutral$
+08 ['Joey Tribbiani']: No, we didn't even pay our cable bill-maybe this is how they punish us. @Neutral$
+09 ['Chandler Bing']: Maybe we shouldn't pay our phone bill-free phone sex. @Joy$
+10 ['Joey Tribbiani']: Maybe we shouldn't pay our gas bill? @Neutral$
+11 ['Mr. Treeger']: Whoa, hey, that lady's all kinds of naked. @Surprise$
+12 ['Chandler Bing']: Yeah, Joey just pressed something on the remote and it just, came on! @Neutral$
+13 ['Mr. Treeger']: Yeah, it happened to me once. I was just flipping through the channels and bam! It was like finding money. @Joy$
+14 ['Chandler Bing']: Like finding money with naked people on it! @Joy$
+15 ['Mr. Treeger']: Then I made the mistake of turning off the TV, I never got it back again. And I'm sad. @Sadness$
+16 ['Joey Tribbiani']: Why would he turn off the TV? @Surprise$
+<END>

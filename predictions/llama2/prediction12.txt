@@ -1,0 +1,20 @@
+Okay, I will fill in the blanks with my best guess for each emotion tag:
+
+00 ['Chandler Bing']: It's not a big deal. It's, just it's right here, and it's all the time. @Neutral$
+01 ['Joanna']: Well, thanks again for lunch. @Joyful$
+02 ['Chandler Bing']: Yes, this, this was pleasant. @Powerful$
+03 ['Joanna']: It was, wasn't it? @Scared$
+04 ['Chandler Bing']: The food there was, was great. @Disgust$
+05 ['Joanna']: Wasn't it? @Sadness$
+06 ['Chandler Bing']: So take care. @Peaceful$
+07 ['Joanna']: You too. @Neutral$
+08 ['Chandler Bing']: Well, this was great. I'll give you a call. We should do it again sometime. @Powerful$
+09 ['Joanna']: Great! I'm looking forward to it. Rachel, any messages? @Neutral$
+10 ['Rachel Green']: Sophie's desk. @Scared$
+11 ['Rachel Green']: Chandler!! Are you gonna call her! @Angry$
+12 ['Chandler Bing']: Noo! @Disgust$
+13 ['Rachel Green']: Chandler!! @Sadness$
+14 ['Chandler Bing']: Look, I'm sorry. Okay? I'm weak, and pathetic, and sorry. @Scared$
+15 ['Chandler Bing']: Ahhhh-I'm not going to call you. @Disgust$
+16 ['Joanna']: What? @Sadness$
+17 ['Joanna']: Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty. @Neutral$

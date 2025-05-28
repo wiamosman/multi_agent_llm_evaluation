@@ -1,0 +1,68 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "[SAD]",
+        "score": 0.0
+    },
+    {
+        "turn": 2,
+        "gold": "Scared",
+        "pred": "[NEUTRAL]",
+        "score": 0.0
+    },
+    {
+        "turn": 3,
+        "gold": "Scared",
+        "pred": "[SAD]",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 4,
+        "gold": "Mad",
+        "pred": "[POWERFUL]",
+        "score": 0.0
+    },
+    {
+        "turn": 5,
+        "gold": "Scared",
+        "pred": "[SAD]",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 6,
+        "gold": "Mad",
+        "pred": "[POWERFUL]",
+        "score": 0.0
+    },
+    {
+        "turn": 7,
+        "gold": "Powerful",
+        "pred": "[NEUTRAL]",
+        "score": 0.0
+    },
+    {
+        "turn": 8,
+        "gold": "Mad",
+        "pred": "[SAD]",
+        "score": 0.0
+    },
+    {
+        "turn": 9,
+        "gold": "Mad",
+        "pred": "[NEUTRAL]",
+        "score": 0.0
+    },
+    {
+        "turn": 10,
+        "gold": "Scared",
+        "pred": "[POWERFUL]",
+        "score": 0.0
+    },
+    {
+        "turn": 11,
+        "gold": "Mad",
+        "pred": "[SAD]",
+        "score": 0.0
+    }
+]

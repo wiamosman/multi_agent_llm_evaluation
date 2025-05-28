@@ -1,0 +1,14 @@
+I will fill in the blanks with the appropriate emotion tags based on the context of each line:
+
+00 ['Chip Matthews']: Here, we are. @Neutral$
+01 ['Monica Geller']: Oh my God! You still have the Chipper! @Joyful$
+02 ['Chip Matthews']: The what? @Scared$
+03 ['Chip Matthews']: No, I think it's cute. @Powerful$
+04 ['Monica Geller']: Wow! A lipper from Chipper. @Sad$
+05 ['Chip Matthews']: So you still in touch with anyone from high school? @Scared$
+06 ['Chip Matthews']: Is that all? @Peaceful$
+07 ['Chip Matthews']: Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman. @Joyful$
+08 ['Monica Geller']: Ohh, how is he? @Sad$
+09 ['Chip Matthews']: Not so good, Simmons and I gave him a wedgie. @Scared$
+10 ['Monica Geller']: Isn't he an architect now? @Powerful$
+11 ['Chip Matthews']: Yeah, they still wear underwear. @Neutral$

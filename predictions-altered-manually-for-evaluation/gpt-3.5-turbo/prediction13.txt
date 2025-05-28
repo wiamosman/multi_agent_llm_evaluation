@@ -1,0 +1,13 @@
+00 ['Ross Geller']: Guys? There's a somebody I'd like you to meet. @Neutral$
+01 ['#ALL#']: Oooh! @Joy$
+02 ['Monica Geller']: W-wait. What is that? @Surprise$
+03 ['Ross Geller']: 'That' would be Marcel. You wanna say hi? @Joy$
+04 ['Monica Geller']: No, no, I don't. @Disgust$
+05 ['Rachel Green']: Oh, he is precious! Where did you get him? @Joy$
+06 ['Ross Geller']: My friend Bethel rescued him from some lab. @Neutral$
+07 ['Phoebe Buffay']: That is so cruel! Why? Why would a parent name their child Bethel? @Anger$
+08 ['Chandler Bing']: Hey, that monkey's got a Ross on its ass! @Joy$
+09 ['Monica Geller']: Ross, is he gonna live with you, like, in your apartment? @Neutral$
+10 ['Ross Geller']: Yeah. I mean, it's been kinda quiet since Carol left, so... @Sadness$
+11 ['Monica Geller']: Why don't you just get a roommate? @Neutral$
+12 ['Ross Geller']: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'. @Neutral$

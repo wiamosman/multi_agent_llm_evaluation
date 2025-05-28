@@ -1,0 +1,110 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Friendly",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 2,
+        "gold": "Mad",
+        "pred": "Confused",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 3,
+        "gold": "Scared",
+        "pred": "Thoughtful",
+        "score": 0.0
+    },
+    {
+        "turn": 4,
+        "gold": "Mad",
+        "pred": "Angry",
+        "score": 0.0
+    },
+    {
+        "turn": 5,
+        "gold": "Scared",
+        "pred": "Annoyed",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 6,
+        "gold": "Mad",
+        "pred": "Fearful",
+        "score": 0.2
+    },
+    {
+        "turn": 7,
+        "gold": "Scared",
+        "pred": "Annoyed",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 8,
+        "gold": "Mad",
+        "pred": "Shrug",
+        "score": 0.0
+    },
+    {
+        "turn": 9,
+        "gold": "Neutral",
+        "pred": "Studious",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 10,
+        "gold": "Mad",
+        "pred": "Annoyed",
+        "score": 0.2
+    },
+    {
+        "turn": 11,
+        "gold": "Sad",
+        "pred": "Sad",
+        "score": 1.0
+    },
+    {
+        "turn": 12,
+        "gold": "Sad",
+        "pred": "Laughing",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 13,
+        "gold": "Sad",
+        "pred": "Laughing",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 14,
+        "gold": "Scared",
+        "pred": "Laughing",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 15,
+        "gold": "Peaceful",
+        "pred": "Annoyed",
+        "score": 0.13333333333333333
+    },
+    {
+        "turn": 16,
+        "gold": "Joyful",
+        "pred": "Annoyed",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 17,
+        "gold": "Joyful",
+        "pred": "Smug",
+        "score": 0.2
+    },
+    {
+        "turn": 18,
+        "gold": "Peaceful",
+        "pred": "Dismissive",
+        "score": 0.1111111111111111
+    }
+]

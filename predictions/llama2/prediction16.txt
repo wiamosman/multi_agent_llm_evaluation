@@ -1,0 +1,18 @@
+Okay, I will fill in the blanks with my best guess for each line based on the emotions you provided:
+
+00 ['Rachel Green']: Here you go Pheebs. Who else wants one of my special homemade brownies? @[Neutral]$
+01 ['Chandler Bing']: I will have one. @[Joyful]$
+02 ['Chandler Bing']: Okay, I'm not gonna have one. @[Scared]$
+03 ['Ross Geller']: Neither will I. @[Powerful]$
+04 ['Phoebe Buffay']: No, no, it's just my tooth. @[Sad]$
+05 ['Chandler Bing']: All right I'll have one. @[Peaceful]$
+06 ['Phoebe Buffay']: No thanks, I have a good one too. I just, I, I can't see him. @[Scared]$
+07 ['Chandler Bing']: See that is the problem with invisible dentists. @[Mad]$
+08 ['Ross Geller']: Why? Why can't you go to him? @[Neutral]$
+09 ['Phoebe Buffay']: Because, every time I go to the dentist, somebody dies. @[Sad]$
+10 ['Chandler Bing']: That is so weird, because every time I go to the dentist, I look down the hygienist's blouse. @[Powerful]$
+11 ['Rachel Green']: Phoebe, what? Umm...what?! @[Scared]$
+12 ['Rachel Green']: And all these people actually died? @[Neutral]$
+13 ['Phoebe Buffay']: Yes, while I was in the chair! That's why I take such good care of my teeth now, y'know, it's not about oral hygiene, I floss to save lives! @[Powerful]$
+14 ['Ross Geller']: Pheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist. It's, it's, it's just ah, a coincidence. @[Neutral]$
+15 ['Phoebe Buffay']: Well tell that to them. Oh! You can't, their dead. @[Sad]$

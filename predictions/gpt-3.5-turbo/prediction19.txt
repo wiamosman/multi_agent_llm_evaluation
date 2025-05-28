@@ -1,0 +1,24 @@
+<START>
+00 ['Rachel Green']: Hey, Sophie! @Joy$
+01 ['Sophie']: Hey, Rach! @Joy$
+02 ['Chandler Bing']: Hey. @Neutral$
+03 ['Sophie']: Hey. @Joy$
+04 ['Chandler Bing']: Oh, that's-that's okay, no problem. @Neutral$
+05 ['Chandler Bing']: Yes, I realise that. @Neutral$
+06 ['Rachel Green']: Summer catalogue! @Joy$
+07 ['Chandler Bing']: That's the stuff! @Joy$
+08 ['Joanna']: Rachel, I need the Versachi invoice. Hello! You don't work for me. @Anger$
+09 ['Rachel Green']: Joanna, this is my friend Chandler Bing Joanna. @Neutral$
+10 ['Joanna']: Bing! That's a great name. @Joy$
+11 ['Chandler Bing']: Thanks, it's ah, Gaelic, for 'Thy turkey's done.' So ah, I'm gonna go, nice, nice meeting you. @Neutral$
+12 ['Joanna']: Me too. @Joy$
+13 ['Rachel Green']: Bye, Chandler. @Neutral$
+14 ['Joanna']: So ah, what's wrong with him? @Curiosity$
+15 ['Rachel Green']: Oh, nothing, he's just goofy like that, I actually, hardly notice it anymore. @Neutral$
+16 ['Joanna']: Oh no, no-no-no, is he ah, married, or involved with anyone? @Concern$
+17 ['Rachel Green']: No!! No! He's not married, or involved, with anyone! @Anger$
+18 ['Joanna']: Oh, Rachel, actually, y'know what, forget it. @Disgust$
+19 ['Rachel Green']: Well, I'll ask him for you, if you want me too? @Neutral$
+20 ['Sophie']: Uh, uh, uh, I am here. @Neutral$
+21 ['Joanna']: I know that. @Neutral$
+<END>

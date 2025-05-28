@@ -1,0 +1,22 @@
+00 ['Monica Geller']: Okay, ready?  @Joyful$
+01 ['Phoebe Buffay']: Yeah.  @Thoughtful$
+02 ['Monica Geller']: Okay.  @Annoyed$
+03 ['Phoebe Buffay']: I got it! Mine!  @Angry$
+04 ['Monica Geller']: Congratulations!  @Celebration$
+05 ['Phoebe Buffay']: Thank you!  @Happy$
+06 ['Monica Geller']: Okay! My turn! My turn!  @Thoughtful$
+07 ['Phoebe Buffay']: Okay! Ready?  @Joyful$
+08 ['Monica Geller']: Yeah.  @Annoyed$
+09 ['Phoebe Buffay']: Okay.  @Thoughtful$
+10 ['Monica Geller']: That was a terrible throw!!  @Angry$
+11 ['Phoebe Buffay']: I'm not gonna right to you! That's not real!  @Annoyed$
+12 ['Phoebe Buffay']: Yeah, I think we are.  @Thoughtful$
+13 ['Monica Geller']: This isn't even my dress.  @Sad$
+14 ['Monica Geller']: I'm changing out of this.  @Annoyed$
+15 ['Phoebe Buffay']: Me too.  @Thoughtful$
+16 ['Monica Geller']: In like a half-hour?  @Annoyed$
+17 ['Phoebe Buffay']: Me too.  @Thoughtful$
+18 ['Monica Geller']: Okay, throw it straight this time.  @Annoyed$
+19 ['Phoebe Buffay']: Okay.  @Thoughtful$
+20 ['Monica Geller']: I'm getting married next!!  @Joyful$
+21 ['Phoebe Buffay']: Yay!  @Celebration$

@@ -1,0 +1,116 @@
+[
+    {
+        "turn": 1,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 2,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 3,
+        "gold": "Joyful",
+        "pred": "Powerful",
+        "score": 0.5714285714285714
+    },
+    {
+        "turn": 4,
+        "gold": "Neutral",
+        "pred": "Mad",
+        "score": 0.2
+    },
+    {
+        "turn": 5,
+        "gold": "Joyful",
+        "pred": "Joyful",
+        "score": 1.0
+    },
+    {
+        "turn": 6,
+        "gold": "Neutral",
+        "pred": "Sad",
+        "score": 0.2
+    },
+    {
+        "turn": 7,
+        "gold": "Joyful",
+        "pred": "Peaceful",
+        "score": 0.42857142857142855
+    },
+    {
+        "turn": 8,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 9,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 10,
+        "gold": "Sad",
+        "pred": "Powerful",
+        "score": 0.0
+    },
+    {
+        "turn": 11,
+        "gold": "Neutral",
+        "pred": "Peaceful",
+        "score": 0.4
+    },
+    {
+        "turn": 12,
+        "gold": "Neutral",
+        "pred": "Joyful",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 13,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 14,
+        "gold": "Joyful",
+        "pred": "Mad",
+        "score": 0.0
+    },
+    {
+        "turn": 15,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 16,
+        "gold": "Joyful",
+        "pred": "Powerful",
+        "score": 0.5714285714285714
+    },
+    {
+        "turn": 17,
+        "gold": "Joyful",
+        "pred": "Peaceful",
+        "score": 0.42857142857142855
+    },
+    {
+        "turn": 18,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 19,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    }
+]

@@ -1,0 +1,25 @@
+<START>
+00 ['Ross Geller']: Rach! Whoops! Rach, hey, open up, please! @Neutral$
+01 ['Rachel Green']: When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape. @Anger$
+02 ['Ross Geller']: I just wanna read something. It's your pro list. @Neutral$
+03 ['Rachel Green']: Not interested. @Anger$
+04 ['Ross Geller']: Ok, ok, number one: The way you cry at game shows. Number two: how much you love your friends. Number three: the way you play with your hair when you're nervous. Number four: how brave you are for starting your life over. Number five: how great you are with Ben. @Joy$
+05 ['Ross Geller']: Number six: the way you smell. @Joy$
+06 ['Joey Tribbiani']: Hey, Ross! What are you doin'? @Surprise$
+07 ['Ross Geller']: Hey, Joey. You wanna open the window? @Neutral$
+08 ['Joey Tribbiani']: Oh, yeah, I do. @Neutral$
+09 ['Chandler Bing']: What are you doing out there? @Surprise$
+10 ['Ross Geller']: I am, uh, I am... @Neutral$
+11 ['Monica Geller']: Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate? @Joy$
+12 ['Ross Geller']: Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance. @Sadness$
+13 ['Rachel Green']: No. @Anger$
+14 ['Ross Geller']: No? @Sadness$
+15 ['Rachel Green']: That's what I said. @Anger$
+16 ['Chandler Bing']: Look, maybe we should go? @Neutral$
+17 ['Rachel Green']: No, you guys, you really don't have to go, we're done talking. @Neutral$
+18 ['Ross Geller']: Rach, come on, look, I know how you must feel. @Sadness$
+19 ['Rachel Green']: No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you. @Sadness$
+20 ['Ross Geller']: No, but, but I wanna be with you in spite of all those things. @Sadness$
+21 ['Rachel Green']: Oh, well, that's, that's mighty big of you, Ross. I said don't go! @Anger$
+22 ['Rachel Green']: Well, then, I guess that's the difference between us. See, I'd never make a list. @Sadness$
+<END>

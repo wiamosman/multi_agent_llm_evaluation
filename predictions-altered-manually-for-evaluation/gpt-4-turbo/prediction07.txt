@@ -1,0 +1,12 @@
+00 ['Chip Matthews']: Here, we are. @Neutral$
+01 ['Monica Geller']: Oh my God! You still have the Chipper! @Surprise$
+02 ['Chip Matthews']: The what? @Neutral$
+03 ['Chip Matthews']: No, I think it's cute. @Joy$
+04 ['Monica Geller']: Wow! A lipper from Chipper. @Joy$
+05 ['Chip Matthews']: So you still in touch with anyone from high school? @Neutral$
+06 ['Monica Geller']: Is that all? @Neutral$
+07 ['Chip Matthews']: Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman. @Neutral$
+08 ['Monica Geller']: Ohh, how is he? @Neutral$
+09 ['Chip Matthews']: Not so good, Simmons and I gave him a wedgie. @Disgust$
+10 ['Monica Geller']: Isn't he an architect now? @Neutral$
+11 ['Chip Matthews']: Yeah, they still wear underwear. @Neutral$

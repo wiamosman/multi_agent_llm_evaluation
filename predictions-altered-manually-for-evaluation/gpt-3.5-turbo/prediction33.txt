@@ -1,0 +1,17 @@
+00 ['Phoebe Buffay']: Come in. @Neutral$
+01 ['Ryan']: Hey baby, I'm back... @Joy$
+02 ['Phoebe Buffay']: Hey Ryan, what's up? @Neutral$
+03 ['Ryan']: What's goin' on? @Neutral$
+04 ['Phoebe Buffay']: Well, no no, you have to stay back. I, I have the pox. @Fear$
+05 ['Ryan']: Chicken or small? @Neutral$
+06 ['Phoebe Buffay']: Chicken. Which is so ironic considering I'm a vegetarian. @Disgust$
+07 ['Ryan']: Why aren't you at home in bed? @Concern$
+08 ['Ryan']: I'm sorry, I never had 'em. @Neutral$
+09 ['Phoebe Buffay']: Ohh, ohh. @Surprise$
+10 ['Phoebe Buffay']: Yeah, or you know, you could just wish that I didn't have them now. @Sadness$
+11 ['Ryan']: Can I please see your face? @Neutral$
+12 ['Phoebe Buffay']: Nope. You don't want to see a face covered with pox. @Fear$
+13 ['Ryan']: Your face could be covered with lochs, I wouldn't care. @Joy$
+14 ['Ryan']: Sorry, the lightning. Lightning was an unfortunate incidence. You look lovely, lovely. @Joy$
+15 ['Phoebe Buffay']: I hate this. 'Cause I tell you, I had the most amazing two weeks planned for us, and almost everything I had in mind, we had to be a lot closer than this. @Sadness$
+16 ['Phoebe Buffay']: Ok, this is the most romantic disease I've ever had. @Joy$

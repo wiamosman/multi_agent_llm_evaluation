@@ -1,0 +1,24 @@
+<START>
+00 ['Monica Geller']: Okay, ready? @Joy$
+01 ['Phoebe Buffay']: Yeah. @Joy$
+02 ['Monica Geller']: Okay. @Neutral$
+03 ['Phoebe Buffay']: I got it! Mine! @Joy$
+04 ['Monica Geller']: Congratulations! @Joy$
+05 ['Phoebe Buffay']: Thank you! @Joy$
+06 ['Monica Geller']: Okay! My turn! @Joy$
+07 ['Phoebe Buffay']: Okay! Okay, ready? @Joy$
+08 ['Monica Geller']: Yeah. @Neutral$
+09 ['Phoebe Buffay']: Okay. @Neutral$
+10 ['Monica Geller']: That was a terrible throw!! @Anger$
+11 ['Phoebe Buffay']: I'm not gonna right to you! That's not real! @Anger$
+12 ['Phoebe Buffay']: Yeah, I think we are. @Neutral$
+13 ['Monica Geller']: This isn't even my dress. @Disgust$
+14 ['Monica Geller']: I'm changing out of this. @Neutral$
+15 ['Phoebe Buffay']: Me too. @Neutral$
+16 ['Monica Geller']: In like a half-hour? @Neutral$
+17 ['Phoebe Buffay']: Me too. @Neutral$
+18 ['Monica Geller']: Okay, throw it straight this time. @Neutral$
+19 ['Phoebe Buffay']: Okay. @Neutral$
+20 ['Monica Geller']: I'm getting married next!! @Joy$
+21 ['Phoebe Buffay']: Yay! @Joy$
+<END>

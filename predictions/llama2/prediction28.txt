@@ -1,0 +1,23 @@
+Okay! Here are the blanks filled in with the appropriate emotion tags:
+
+00 ['Mr. Ratstatter']: This is a nice resume. Nice, nice, nice. Muy impressivo. @Neutral$
+01 ['Monica Geller']: So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear. @Questioning$
+02 ['Mr. Ratstatter']: Mockolate. @Excited$
+03 ['Monica Geller']: I'm sorry? @Confused$
+04 ['Mr. Ratstatter']: Mockolate. It's a completely synthetic chocolate substitute. @Interested$
+05 ['Monica Geller']: Ohh. @Curious$
+06 ['Mr. Ratstatter']: Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate. @Excited$
+07 ['Monica Geller']: All right. Mmm-mmm. @Enjoying$
+08 ['Mr. Ratstatter']: Yeah? @Confirming$
+09 ['Monica Geller']: I love how it crumbles. Now see, your chocolate doesn't do that. @Observing$
+10 ['Mr. Ratstatter']: No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays: Easter, Christmas, what have you. @Planning$
+11 ['Monica Geller']: Mmm-mmm. @Appreciating$
+12 ['Mr. Ratstatter']: But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday. @Ambitious$
+13 ['Monica Geller']: Wow. @Surprised$
+14 ['Mr. Ratstatter']: Aren't you going to swallow that? @Concerned$
+15 ['Monica Geller']: Just waiting for it to stop bubbling. @Patient$
+16 ['Mr. Ratstatter']: Yeah, isn't that great? @Excited$
+17 ['Monica Geller']: Mmm. @Enjoying$
+18 ['Monica Geller']: Abso... ...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate. @Passionate$
+19 ['Mr. Ratstatter']: Really? @Curious$
+20 ['Monica Geller']: Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas. @Excited$

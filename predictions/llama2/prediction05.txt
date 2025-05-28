@@ -1,0 +1,24 @@
+Okay, I will fill in the blanks with my best guesses for each emotion tag. Here is the dialogue with the blanks filled in:
+
+00 ['Monica Geller']: Okay, ready? 😃
+01 ['Phoebe Buffay']: Yeah. 🤔
+02 ['Monica Geller']: Okay. 🙄
+03 ['Phoebe Buffay']: I got it! Mine! 😠
+04 ['Monica Geller']: Congratulations! 🎉
+05 ['Phoebe Buffay']: Thank you! 😊
+06 ['Monica Geller']: Okay! My turn! My turn! 🤔
+07 ['Phoebe Buffay']: Okay! Ready? 😃
+08 ['Monica Geller']: Yeah. 🙄
+09 ['Phoebe Buffay']: Okay. 🤔
+10 ['Monica Geller']: That was a terrible throw!! 😠
+11 ['Phoebe Buffay']: I'm not gonna right to you! That's not real! 🙄
+12 ['Phoebe Buffay']: Yeah, I think we are. 🤔
+13 ['Monica Geller']: This isn't even my dress. 😔
+14 ['Monica Geller']: I'm changing out of this. 🙄
+15 ['Phoebe Buffay']: Me too. 🤔
+16 ['Monica Geller']: In like a half-hour? 😒
+17 ['Phoebe Buffay']: Me too. 🤔
+18 ['Monica Geller']: Okay, throw it straight this time. 🙄
+19 ['Phoebe Buffay']: Okay. 🤔
+20 ['Monica Geller']: I'm getting married next!! 😃
+21 ['Phoebe Buffay']: Yay! 🎉

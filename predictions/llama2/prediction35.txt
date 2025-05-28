@@ -1,0 +1,27 @@
+Okay! Here are the blanks filled in with the appropriate emotion tags:
+
+00 ['Phoebe Buffay']: Hey! 😃
+01 ['#ALL#']: Hey! 😃
+02 ['Phoebe Buffay']: Look everybody, look at my new dollhouse!! 😍
+03 ['Rachel Green']: Wow!! 😲
+04 ['Phoebe Buffay']: Look, look! 😃
+05 ['Ross Geller']: Hey, what's this?! 🤔
+06 ['Phoebe Buffay']: Oh, okay, it's the slide instead of stairs. Watch this. 😅
+07 ['Monica Geller']: It's very interesting, Phoebe. 🙄
+08 ['Rachel Green']: What's this? 🤔
+09 ['Phoebe Buffay']: The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed. 😂
+10 ['Ross Geller']: This is the coolest house ever!! 😎
+11 ['Phoebe Buffay']: Hey, does anybody want to join me in the aroma room? 🤔
+12 ['Rachel Green']: All right! 😃
+13 ['Ross Geller']: I would! 😃
+14 ['Monica Geller']: Hey, guys, guys, did you see my new, china cabinet?! 😍
+15 ['Rachel Green', 'Ross Geller']: Uh-huh. 🙄
+16 ['Phoebe Buffay']: Watch, watch. 😅
+17 ['Rachel Green', 'Ross Geller']: Ooohhhh!! 😲
+18 ['Phoebe Buffay']: And, and! 😃
+19 ['Rachel Green', 'Ross Geller']: Ahhhh!! 🤯
+20 ['Chandler Bing']: Hey, my Father's house does that! 😂
+21 ['Rachel Green']: O-o-o-okay, how did it go? Tell me everything. 🙄
+22 ['Chandler Bing']: Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening. 😊
+23 ['Rachel Green']: Hmm. 🤔
+24 ['Chandler Bing']: Of course, I didn't get to enjoy any of that, because Joanna's such a big, dull dud! 🙄

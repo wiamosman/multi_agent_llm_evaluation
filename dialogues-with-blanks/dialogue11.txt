@@ -1,0 +1,12 @@
+00 ['Ross Geller']: Sorry I ah, I scared you in there. @[BLANK]$
+01 ['Monica Geller']: Oh, that's okay. By the way, I was just checking the shower massager. @[BLANK]$
+02 ['Ross Geller']: Yeah. @[BLANK]$
+03 ['Phoebe Buffay']: Hey! @[BLANK]$
+04 ['Monica Geller']: I tried to reach you at work. There's....been a fire. @[BLANK]$
+05 ['Phoebe Buffay']: What?! Oh my... Oh my God!! What happened?! @[BLANK]$
+06 ['Ross Geller']: Well, we believe it originated here. In the Aroma Room. @[BLANK]$
+07 ['Phoebe Buffay']: All right. Did everyone get out okay? @[BLANK]$
+08 ['Monica Geller']: Well, the giraffe's okay. And so is the pirate. @[BLANK]$
+09 ['Phoebe Buffay']: Ohh. What is this? @[BLANK]$
+10 ['Ross Geller']: No Phoebe, don't look! You don't want to see what's under there!! @[BLANK]$
+11 ['Phoebe Buffay']: Ohh, the-the Foster puppets! @[BLANK]$

@@ -1,0 +1,16 @@
+<START>
+00 ['Joey Tribbiani']: Ewww! Ugly Naked Guy is using his new hammock. It's like a Play-Doo Fat Factory. @Disgust$
+01 ['Ross Geller']: Okay, I have a problem I have to go into work for a few hours, some kids messed up the Homo Sapien display. @Neutral$
+02 ['Joey Tribbiani']: What did they do? @Curiosity$
+03 ['Ross Geller']: Well, they painted over the word 'Sapien' for one thing, then they rearranged the figures, let's just leave it at that. @Frustration$
+04 ['Monica Geller']: So, do you want me to watch Ben for you? @Neutral$
+05 ['Ross Geller']: Yes, that's what I was going to ask, thank you. @Joy$
+06 ['Rachel Green']: Whoa! Wait! Hello! What about me? @Surprise$
+07 ['Ross Geller']: You? You! Want to watch Ben? Yes! That'd be great, no, I just wanted to ask Monica, because I know how empty her life is. @Disgust$
+08 ['Joey Tribbiani']: Hey-hey, Ross? @Neutral$
+09 ['Ross Geller']: Yeah. @Neutral$
+10 ['Joey Tribbiani']: I've got a science question. @Neutral$
+11 ['Ross Geller']: Hmm? @Neutral$
+12 ['Ross Geller']: Joey, Homo Sapiens are people. @Neutral$
+13 ['Joey Tribbiani']: Hey-hey, I'm not judging. @Defensive$
+<END>

@@ -1,0 +1,68 @@
+[
+    {
+        "turn": 1,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 2,
+        "gold": "Neutral",
+        "pred": "Peaceful",
+        "score": 0.4
+    },
+    {
+        "turn": 3,
+        "gold": "Scared",
+        "pred": "Powerful",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 4,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    },
+    {
+        "turn": 5,
+        "gold": "Powerful",
+        "pred": "Sad",
+        "score": 0.0
+    },
+    {
+        "turn": 6,
+        "gold": "Mad",
+        "pred": "Peaceful",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 7,
+        "gold": "Mad",
+        "pred": "Powerful",
+        "score": 0.0
+    },
+    {
+        "turn": 8,
+        "gold": "Peaceful",
+        "pred": "Joyful",
+        "score": 0.42857142857142855
+    },
+    {
+        "turn": 9,
+        "gold": "Joyful",
+        "pred": "Neutral",
+        "score": 0.3076923076923077
+    },
+    {
+        "turn": 10,
+        "gold": "Peaceful",
+        "pred": "Sad",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 11,
+        "gold": "Neutral",
+        "pred": "Scared",
+        "score": 0.15384615384615385
+    }
+]

@@ -1,0 +1,15 @@
+I will fill in the blanks with the appropriate emotion tags based on the context of the dialogue:
+
+00 ['Richard Burke']: Monica, wake up. Monica. 😐
+01 ['Monica Geller']: What's up? 🤔
+02 ['Richard Burke']: I thought of a thing. 💡
+03 ['Monica Geller']: Yeah? 👀
+04 ['Richard Burke']: Yeah. I have to sleep, have to, on this side of the bed. 😴
+05 ['Monica Geller']: No honey. You have to sleep on this side of the bed because I have to sleep on this side of the bed. 🙄
+06 ['Richard Burke']: Or so I would have you believe. 😏
+07 ['Monica Geller']: No. Big deal, so you have a side of the bed, everybody has a side of the bed. 🙅‍♀️
+08 ['Richard Burke']: Hey come on, you haven't heard my reason yet. 😜
+09 ['Monica Geller']: Alright, go on. 👀
+10 ['Richard Burke']: Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side. 🌊
+11 ['Monica Geller']: Oh my God, you're a freak. 😂
+12 ['Richard Burke']: Yeah. How 'bout that. 😜

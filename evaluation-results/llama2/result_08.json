@@ -1,0 +1,80 @@
+[
+    {
+        "turn": 1,
+        "gold": "Neutral",
+        "pred": "Neutral",
+        "score": 1.0
+    },
+    {
+        "turn": 2,
+        "gold": "Neutral",
+        "pred": "Thoughtful",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 3,
+        "gold": "Neutral",
+        "pred": "Thoughtful",
+        "score": 0.35294117647058826
+    },
+    {
+        "turn": 4,
+        "gold": "Neutral",
+        "pred": "Curious",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 5,
+        "gold": "Neutral",
+        "pred": "Tired",
+        "score": 0.16666666666666666
+    },
+    {
+        "turn": 6,
+        "gold": "Mad",
+        "pred": "Annoyed",
+        "score": 0.2
+    },
+    {
+        "turn": 7,
+        "gold": "Neutral",
+        "pred": "Smug",
+        "score": 0.18181818181818182
+    },
+    {
+        "turn": 8,
+        "gold": "Peaceful",
+        "pred": "Dismissive",
+        "score": 0.1111111111111111
+    },
+    {
+        "turn": 9,
+        "gold": "Mad",
+        "pred": "Playful",
+        "score": 0.2
+    },
+    {
+        "turn": 10,
+        "gold": "Neutral",
+        "pred": "Curious",
+        "score": 0.2857142857142857
+    },
+    {
+        "turn": 11,
+        "gold": "Neutral",
+        "pred": "Powerful",
+        "score": 0.4
+    },
+    {
+        "turn": 12,
+        "gold": "Joyful",
+        "pred": "Laughing",
+        "score": 0.14285714285714285
+    },
+    {
+        "turn": 13,
+        "gold": "Neutral",
+        "pred": "Playful",
+        "score": 0.2857142857142857
+    }
+]

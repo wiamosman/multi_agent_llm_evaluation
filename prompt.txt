@@ -1,0 +1,25 @@
+I will give you a dialogue from conversation, consisting of multiple lines in the following format:
+turn ['Speaker']: utterance @Emotion$
+
+Each line contains a turn number, speaker name, dialogue utterance, and an emotion label such as @Joy$, @Anger$, or @Neutral$.
+In the dialogue I provide, all emotion tags will be replaced with the placeholder @[BLANK]$.
+Your task is to fill in the correct emotion tag for each utterance using only these 7 labels:
+Neutral, Joy, Sadness, Anger, Fear, Disgust, Surprise.
+Do not use emojis in place of the emotion labels. Use only the text-based labels exactly as listed above.
+
+I will give you three example dialogues for training. Do not return the example dialogues or any other text.
+Only return the target dialogue between <START> and <END>, with each @[BLANK]$ replaced by your best guess of the appropriate emotion tag.
+
+Example Dialogue 1:
+{example_dialogue_1}
+
+Example Dialogue 2:
+{example_dialogue_2}
+
+Example Dialogue 3:
+{example_dialogue_3}
+
+Here is the dialogue, which I want you to return with blanks filled in:
+<START>
+{dialogue_with_blanks}
+<END>

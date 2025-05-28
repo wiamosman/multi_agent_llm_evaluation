@@ -1,0 +1,21 @@
+00 ['Chandler Bing']: It's not a big deal. It's, just it's right here, and it's all the time. @Neutral$
+01 ['Joanna']: Well, thanks again for lunch. @Joyful$
+02 ['Chandler Bing']: Yes, this, this was pleasant. @Neutral$
+03 ['Joanna']: It was, wasn't it? @Joyful$
+04 ['Chandler Bing']: The food there was, was great. @Joyful$
+05 ['Joanna']: Wasn't it? @Joyful$
+06 ['Chandler Bing']: So take care. @Neutral$
+07 ['Joanna']: You too. @Joyful$
+08 ['Chandler Bing']: Well, this was great. I'll give you a call. We should do it again sometime. @Joyful$
+09 ['Joanna']: Great! I'm looking forward to it. Rachel, any messages? @Joyful$
+10 ['Rachel Green']: Sophie's desk. @Neutral$
+11 ['Rachel Green']: Chandler!! Are you gonna call her! @Mad$
+12 ['Chandler Bing']: Noo! @Scared$
+13 ['Rachel Green']: Chandler!! @Mad$
+14 ['Chandler Bing']: Look, I'm sorry. Okay? I'm weak, and pathetic, and sorry. @Sad$
+15 ['Chandler Bing']: Ahhhh-I'm not going to call you. @Scared$
+16 ['Joanna']: What? @Sad$
+17 ['Joanna']: Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty. @Sad$
+18 ['Chandler Bing']: Yeah, o-okay. @Neutral$
+19 ['Joanna']: So... @Neutral$
+20 ['Chandler Bing']: Well this is great! I'll give you a call! We should do it again sometime! @Joyful$
